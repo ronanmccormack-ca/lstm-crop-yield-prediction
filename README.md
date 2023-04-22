@@ -5,3 +5,5 @@ The prediction of crop yield can help farmers and policymakers to make informed 
 <br>
 The results of this study could provide insights into the crop yield prediction of wheat in Alberta and could potentially be used in other regions with similar climatic conditions.<br>
 <br>
+This Thesis was Submitted to the Atlantic Technology University, May 2023.<br>
+<br>
